@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7DC3EC3C-7279-467C-921C-D92C7F94DA00"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0740C23-067A-4462-9F9C-CE436A405B35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dangol_Movies/MovieCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "assignMovie(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0740C23-067A-4462-9F9C-CE436A405B35 - 2735d86521e9fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_Movies.MovieCollectionViewCell.assignMovie(with: Dangol_Movies.Movie) -&gt; ()"
+                  moduleName = "Dangol_Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/test%20movies/Dangol_Movies/Dangol_Movies/MovieCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A0740C23-067A-4462-9F9C-CE436A405B35 - 2735d86521e9fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_Movies.MovieCollectionViewCell.assignMovie(with: Dangol_Movies.Movie) -&gt; ()"
+                  moduleName = "Dangol_Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/test%20movies/Dangol_Movies/Dangol_Movies/MovieCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A84452EE-5190-4F9D-A65A-FE7E5B83BCB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dangol_Movies/MovieCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "assignMovie(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A84452EE-5190-4F9D-A65A-FE7E5B83BCB2 - 2735d86521e9fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_Movies.MovieCollectionViewCell.assignMovie(with: Dangol_Movies.Movie) -&gt; ()"
+                  moduleName = "Dangol_Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/test%20movies/Dangol_Movies/Dangol_Movies/MovieCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "A84452EE-5190-4F9D-A65A-FE7E5B83BCB2 - 2735d86521e9fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_Movies.MovieCollectionViewCell.assignMovie(with: Dangol_Movies.Movie) -&gt; ()"
+                  moduleName = "Dangol_Movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/test%20movies/Dangol_Movies/Dangol_Movies/MovieCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA70AAB4-E7D4-45C6-8DE0-6D7DE6C43353"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dangol_Movies/MovieCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "assignMovie(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "42A77FF0-3E87-4015-B83D-5D11F10AEBEF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Dangol_WordGuess/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - 5681617b7e44ea3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.wordsRemainingLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - 61286e2c4da30e2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.wordsRemainingLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - 77543947ef07333b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.wordsRemainingLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - f2743b61695c50a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.wordsRemainingLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - 38afd8c3bf919ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Dangol_WordGuess.ViewController"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "B2F3DA6D-185E-4A2A-BB3B-24E3854609C4 - b3cc206ad659f8b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Dangol_WordGuess.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Dangol_WordGuess.ViewController&gt;"
+                  moduleName = "Dangol_WordGuess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/New%20A4/Dangol_WordGuess/Dangol_WordGuess/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

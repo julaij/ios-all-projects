@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "014A0B8D-A905-4BBF-8B5D-9994BE5266BC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27919383-2A35-4602-83B2-D9A19CB97374"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JulaiPracHome/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JulaiPracHome/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 787d26bc05ee5fb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.imageViewOL.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 805dfec28aac03a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.imageViewOL.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 29b98d2c3c3bf8b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.imageViewOL.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 66d8f889c6c4d965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.imageViewOL.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 68a009e84a039729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; JulaiPracHome.ResultViewController"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "87987F05-150B-44A0-9D1E-B209EB4170CB - 8214f8c53b9a8ae2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JulaiPracHome.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;JulaiPracHome.ResultViewController&gt;"
+                  moduleName = "JulaiPracHome"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/julaidangol/Desktop/JulaiPracHome/JulaiPracHome/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
